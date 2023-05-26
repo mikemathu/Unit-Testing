@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JH9gX5/b2umPtRgO1lvRKDgpsiDa5/TqOxVLiNB0oSQJ+1rCjRoSadGIhG3Y9oEhFu7Mr1o9ZVuvvnGPHEjHYw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\MVC\\TestProject1\\ExchangeRate.Web\\ExchangeRate.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

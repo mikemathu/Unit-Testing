@@ -1,0 +1,12 @@
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\bin\Debug\net6.0\ExchangeRate.Web.deps.json
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\bin\Debug\net6.0\ExchangeRate.Web.dll
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\bin\Debug\net6.0\ExchangeRate.Web.pdb
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.csproj.AssemblyReference.cache
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.AssemblyInfoInputs.cache
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.AssemblyInfo.cs
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.csproj.CoreCompileInputs.cache
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.dll
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\refint\ExchangeRate.Web.dll
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ExchangeRate.Web.pdb
+C:\Projects\MVC\TestProject1\ExchangeRate.Web\obj\Debug\net6.0\ref\ExchangeRate.Web.dll
